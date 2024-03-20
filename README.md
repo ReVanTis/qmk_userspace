@@ -4,9 +4,9 @@ This is ReVanTis' [qmk userspace fork](https://github.com/qmk/qmk_userspace).
 
 ## keyboards list
 
-[Preonic Rev3](keyboards/planck/keymaps/vaninc/) migrated from [here](https://github.com/ReVanTis/preonic_qmk)
+[Preonic Rev3](keyboards/preonic/keymaps/vaninc/) migrated from [here](https://github.com/ReVanTis/preonic_qmk)
 
-[Planck Light](keyboards/preonic/keymaps/vaninc/) migrated from [here](https://github.com/ReVanTis/planck_light_qmk)
+[Planck Light](keyboards/planck/keymaps/vaninc/) migrated from [here](https://github.com/ReVanTis/planck_light_qmk)
 
 ## setup
 
